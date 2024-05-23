@@ -2,7 +2,7 @@
 This is a folder for my research posters
 
 - 2024 - Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2023, Tartu, Estonia
-- 2023 - EMBO | EMBL Symposium “The human microbiome”, Heidelberg, Germany
+- 2023 - <b> 2023-09_EMBL.pdf </b> - EMBO | EMBL Symposium “The human microbiome”, Heidelberg, Germany
 - 2023 - Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2022, Tartu, Estonia
 - 2022 - Microbiota and Health, National Doctoral Program in Infections and Antibiotics (NDPIA), Gothenburg, Sweden
 
