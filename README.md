@@ -5,7 +5,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 ## Talks
 
 <b> PhD Conference 2024 </b>
-<i> Awarded by "Best talk" & "Audience award" </i>
+<i> Talk awarded by "Best talk" & "Audience award" </i>
 - File name: 2024-01_PhD_conference_pantiukh_final.pdf
 - Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2023, Tartu, Estonia, 2024
 - Project: Newly assembled gut bacteria DB and their associations with common diseases
