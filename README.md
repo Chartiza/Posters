@@ -10,7 +10,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 - Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2023, Tartu, Estonia, 2024
 - Project: Newly assembled gut bacteria DB and their associations with common diseases
 
-## Poster presentation
+## Posters
 
 <b> IHMC Congress </b>
 - File name: 327_Pantiukh_Kateryna_IHMC.pdf
