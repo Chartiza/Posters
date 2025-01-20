@@ -12,6 +12,8 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 ## Posters
 
+<b> PhD Conference 2025 </b>
+
 <b> IHMC Congress </b>
 - File name: 327_Pantiukh_Kateryna_IHMC.pdf
 - Conference: 10th International Human Microbiome Consortium (IHMC) Congress 2024, Rome, Itally
