@@ -5,7 +5,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 ## Talks
 
 <b> PhD Conference 2024 </b>
-<i> Talk awarded by "Best talk" & "Audience award" </i>
+<i><span style="color: green;"> Talk awarded by "Best talk" & "Audience award" </span></i>
 - File name: 2024-01_PhD_conference_pantiukh_final.pdf
 - Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2023, Tartu, Estonia, 2024
 - Project: Newly assembled gut bacteria DB and their associations with common diseases
@@ -13,7 +13,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 ## Posters
 
 <b> PhD Conference 2025 </b>
-<i> Awarded the "Best Poster" award and received recognition for the best poster presentation in microbiology by the Estonian Society for Microbiology </i>
+<i><span style="color: green;"> Awarded the "Best Poster" award and received recognition for the best poster presentation in microbiology by the Estonian Society for Microbiology </span></i>
 - File name: 2025-01_PhD_conference_pantiukh.pdf
 - Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2024, Tartu, Estonia, 2025
 - Project: Archaea in human gut
@@ -41,7 +41,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 
 Feel free to explore these materials to get a deeper understanding of my research.
-If you have any questions or need further information, don't hesitate to contact me on [Twitter](https://twitter.com/KPantiukh).
+If you have any questions or need further information, don't hesitate to contact me on [Twitter](https://twitter.com/KPantiukh) & [Bluesky](https://bsky.app/profile/katerynap.bsky.social).
 
 
 ![Sea3_long-01](https://user-images.githubusercontent.com/15068419/225294622-be24ceaa-8b38-4772-a6de-7238103f488f.png)
