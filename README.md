@@ -13,6 +13,10 @@ Welcome to my repository of research posters and presentations. Here, you will f
 ## Posters
 
 <b> PhD Conference 2025 </b>
+<i> Awarded the "Best Poster" award and received recognition for the best poster presentation in microbiology by the Estonian Society for Microbiology </i>
+- File name: 2025-01_PhD_conference_pantiukh.pdf
+- Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2024, Tartu, Estonia, 2025
+- Project: Archaea in human gut
 
 <b> IHMC Congress </b>
 - File name: 327_Pantiukh_Kateryna_IHMC.pdf
