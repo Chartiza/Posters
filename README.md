@@ -4,7 +4,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 ## Talks
 
-<b> PhD Conference 2024 </b>
+<b>🏆 PhD Conference 2024 </b>
 <i><span style="color: green;"> Talk awarded by "Best talk" & "Audience award" </span></i>
 - File name: 2024-01_PhD_conference_pantiukh_final.pdf
 - Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2023, Tartu, Estonia, 2024
@@ -12,7 +12,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 ## Posters
 
-<b> PhD Conference 2025 </b>
+<b>🏆 PhD Conference 2025 </b>
 <i><span style="color: green;"> Awarded the "Best Poster" award and received recognition for the best poster presentation in microbiology by the Estonian Society for Microbiology </span></i>
 - File name: 2025-01_PhD_conference_pantiukh.pdf
 - Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2024, Tartu, Estonia, 2025
