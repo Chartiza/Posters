@@ -12,6 +12,12 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 ## Posters
 
+<b>🏆 SymbNET PhD Summer School</b>
+<i><span style="color: green;"> Awarded the 1st Prize for the best poster presentation  </span></i>
+- File name: 2025-06_SymbNET_pantiukh.pdf
+- Conference: SymbNET PhD Summer School on Host-Microbe Symbioses, Oeiras Lisboa, Portugal, 2025
+- Project: Metagenome-assembled genomes of Estonian Microbiome cohort
+
 <b>🏆 PhD Conference 2025 </b>
 <i><span style="color: green;"> Awarded the "Best Poster" award and received recognition for the best poster presentation in microbiology by the Estonian Society for Microbiology </span></i>
 - File name: 2025-01_PhD_conference_pantiukh.pdf
