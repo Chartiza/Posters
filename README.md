@@ -5,7 +5,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 ## Talks
 
 <b>GeneForum 2025 </b>
-<i><span style="color: green;"> Selecyed short talk </span></i>
+<i><span style="color: green;"> Selected short talk </span></i>
 - File name: 2025-09_GeneForum_pantiukh.pdf
 - Conference: The 24th International Gene Forum 2025, Tartu, Estonia, 2025
 - Project: Newly assembled gut bacteria DB and their associations with common diseases
