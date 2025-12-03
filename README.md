@@ -4,6 +4,12 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 ## Talks
 
+<b>GeneForum 2025 </b>
+<i><span style="color: green;"> Selecyed short talk </span></i>
+- File name: 2025-09_GeneForum_pantiukh.pdf
+- Conference: GeneForum Conference, Tartu, Estonia, 2025
+- Project: Newly assembled gut bacteria DB and their associations with common diseases
+
 <b>🏆 PhD Conference 2024 </b>
 <i><span style="color: green;"> Talk awarded by "Best talk" & "Audience award" </span></i>
 - File name: 2024-01_PhD_conference_pantiukh_final.pdf
