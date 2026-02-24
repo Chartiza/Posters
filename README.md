@@ -20,8 +20,8 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 <b> PhD Conference 2026 </b>
 - File name: 2026-01_PhD_conference_pantiukh.pdf
-- Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2024, Tartu, Estonia, 2025
-- Project: Species structure of human gut bacteria
+- Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2025, Tartu, Estonia, 2026
+- Project: Species structure of human gut microbiome species
   
 <b>🏆 SymbNET PhD Summer School</b>
 <i><span style="color: green;"> Awarded the 1st Prize for the best poster presentation  </span></i>
