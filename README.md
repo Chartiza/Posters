@@ -4,7 +4,7 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 ## Talks
 
-<b>GeneForum 2025 </b>
+<b>🏆 GeneForum 2025 </b>
 <i><span style="color: green;"> Selected short talk </span></i>
 - File name: 2025-09_GeneForum_pantiukh.pdf
 - Conference: The 24th International Gene Forum 2025, Tartu, Estonia, 2025
@@ -18,6 +18,11 @@ Welcome to my repository of research posters and presentations. Here, you will f
 
 ## Posters
 
+<b> PhD Conference 2026 </b>
+- File name: 2026-01_PhD_conference_pantiukh.pdf
+- Conference: Institute of Molecular and Cell Biology & Institute of Genomics Annual Conference 2024, Tartu, Estonia, 2025
+- Project: Species structure of human gut bacteria
+  
 <b>🏆 SymbNET PhD Summer School</b>
 <i><span style="color: green;"> Awarded the 1st Prize for the best poster presentation  </span></i>
 - File name: 2025-06_SymbNET_pantiukh.pdf
